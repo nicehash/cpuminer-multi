@@ -22,8 +22,8 @@
 #include <stdio.h>
 #include <time.h>
 #include <immintrin.h>
-#include "sponge.h"
-#include "lyra2.h"
+#include "Sponge.h"
+#include "Lyra2.h"
 
 /**
  * Initializes the Sponge State. The first 512 bits are set to zeros and the remainder
