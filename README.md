@@ -49,6 +49,7 @@ Algorithms
  * ✓ __x14__ (X14, Webcoin [WEB])
  * ✓ __x15__ (RadianceCoin [RCE])
  * ✓ __zr5__ (Ziftrcoin [ZRC])
+  * ✓ __c11__ (Chaincoin)
 
 #### Implemented, but untested
  * ? hefty1 (Heavycoin)
